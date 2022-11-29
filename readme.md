@@ -12,13 +12,20 @@ Este repositório foi marcado pela [dotDev](https://github.com/dotDevGroup/) com
 This repository has been marked by [dotDev](https://github.com/dotDevGroup/) as a bilingual repository. This implies that he will work with two languages, namely **Brazilian Portuguese** and **English**.
 
 ## Utilizando a Ferramenta
+Existem **duas** formas de se utilizar desta ferramenta. A primeira é fazendo testes, para isso você vai precisar do [IntelliJ IDEA Community Edition](https://www.jetbrains.com/pt-br/idea/download/#section=windows). Dentro do programa, siga estes passos:
 
-## Organização de Pastas
+1. Vá até ``File``.
+2. Clique em ``Settings``.
+3. Acesse ``Tools``.  
+5. Vá até ``External Tools`` e  
+5. Clique no ``+``, inserindo o seguinte:  
 
-## Configurando as Variáveis
-
-## Privacidade e Segurança
--Xmx2G
+``Name: AS3Compile``  
+``Description: Compiling and generating SWF modifications.``  
+``Program: Java``  
+``Arguments:``
+```
+-Xmx512M
 -Dsun.io.useCanonCaches=false
 -Duser.language=pt
 -Duser.region=BR
@@ -30,3 +37,10 @@ compiler/flexsdk/4.6.0/lib/mxmlc.jar
 -load-config+=obj/Configuration.xml
 -o
 build/hair_U_testclothing.swf
+```
+
+## Organização de Pastas
+
+## Configurando as Variáveis
+
+## Privacidade e Segurança
