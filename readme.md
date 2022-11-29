@@ -17,6 +17,7 @@ This repository has been marked by [dotDev](https://github.com/dotDevGroup/) as 
 
 ## Configurando as Variáveis
 
+## Privacidade e Segurança
 -Xmx2G
 -Dsun.io.useCanonCaches=false
 -Duser.language=pt
