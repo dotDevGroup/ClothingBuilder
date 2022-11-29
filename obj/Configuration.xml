@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flex-config>
+    <compiler>
+        <source-path append="true">
+        <path-element>C:\YOUR\PATH\src</path-element>
+        <path-element>C:\YOUR\PATH\compiler\Library\AS3\classes</path-element>
+        </source-path>
+    </compiler>
+    <file-specs>
+        <path-element>C:\YOUR\PATH\src\Main.as</path-element>
+    </file-specs>
+    <metadata>
+        <title>Apache Flex Application</title>
+        <description>http://flex.apache.org/</description>
+        <publisher>ClothingBuilder</publisher>
+        <creator>Apache Software Foundation</creator>
+        <language>pt_BR</language>
+    </metadata>
+    <default-size>
+        <width>500</width>
+        <height>375</height>
+    </default-size>
+    <default-background-color>#ffffff</default-background-color>
+    <swf-version>38</swf-version>
+    <default-frame-rate>24</default-frame-rate>
+    <target-player>23.0</target-player>
+    <static-link-runtime-shared-libraries static-link-runtime-shared-libraries>true</static-link-runtime-shared-libraries>
+</flex-config>
