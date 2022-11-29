@@ -9,4 +9,4 @@ compiler/flexsdk/4.6.0/lib/mxmlc.jar
 -compiler.compress=true
 -load-config+=obj/Configuration.xml
 -o
-build/%filename%.swf
+build/hair_U_testclothing.swf
