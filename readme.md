@@ -2,6 +2,9 @@
     <img src="https://raw.githubusercontent.com/dotDevGroup/ClothingBuilder/main/images/header.gif"/>
 </div>
 
+![image](https://img.shields.io/badge/Versão-0.0.0-blue.svg?style=for-the-badge&logo=verizon)
+![image](https://img.shields.io/badge/Estado-Em%20Progresso-orange.svg?style=for-the-badge&logo=instatus&logoColor=white)
+
 -Xmx2G
 -Dsun.io.useCanonCaches=false
 -Duser.language=pt
