@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://raw.githubusercontent.com/dotDevGroup/ClothingBuilder/main/images/header.gif"/>
+</div>
+
 -Xmx2G
 -Dsun.io.useCanonCaches=false
 -Duser.language=pt
