@@ -9,7 +9,7 @@
 Este repositório foi marcado pela [dotDev](https://github.com/dotDevGroup/) como um repositório bilíngue. Isto implica que ele trabalhará com duas línguas, sendo elas o **Português Brasileiro** e o **Inglês**.
 
 #### English Translation
-This repository has been marked by [dotDev](https://github.com/dotDevGroup/) as a bilingual repository. This implies that he will work with two languages, namely **Brazilian Portuguese** and **English**.
+This repository has been marked by [dotDev](https://github.com/dotDevGroup/) as a bilingual repository. This implies that he will work with two languages: **Brazilian Portuguese** and **English**.
 
 ## Utilizando a Ferramenta
 Existem **duas** formas de se utilizar desta ferramenta.
